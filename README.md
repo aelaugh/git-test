@@ -1,5 +1,5 @@
 # git-test
-test repo to practice
+local repo
 
 # Updated readme
 updated with new branch
