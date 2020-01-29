@@ -1,5 +1,5 @@
 # git-test
-test repo to practice
+line edited on the remote master on github pages
 
 # Updated readme
 updated with new branch
