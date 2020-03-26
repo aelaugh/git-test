@@ -25,6 +25,7 @@ Populate the Database using the SQL file 'pickndropDB.sql' in PicknDrop\pickndro
 3. Deploy the webservice; PicknDrop/webserviceCal/CalculatorWSApplication
 
 4. Build and run the project 'PicknDrop'
+
 *Note: If Netbeans shows an error saying missing library file, click ‘Resolve’ and navigate to the ‘javaLib’ folder inside the repo and select the missing JSON library file; PicknDrop/javaLib/json-20190722 (1).jar*
 
 
