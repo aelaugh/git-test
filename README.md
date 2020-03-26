@@ -20,11 +20,11 @@ Connection URL: jdbc:derby://localhost:1527/pickndropDB
 ```
 *Note: If you need to change the DB configuration do edit the changes in the deployment descriptor (web.xml) in the sourcecode; PicknDrop\web\WEB-INF\web.xml*
 
-Populate the Database using the SQL file 'pickndropDB.sql' in PicknDrop\pickndropDB.sql (use execute command)
+3. Populate the Database using the SQL file 'pickndropDB.sql' in PicknDrop\pickndropDB.sql (use execute command)
 
-3. Deploy the webservice; PicknDrop/webserviceCal/CalculatorWSApplication
+4. Deploy the webservice; PicknDrop/webserviceCal/CalculatorWSApplication
 
-4. Build and run the project 'PicknDrop'
+5. Build and run the project 'PicknDrop'
 
 *Note: If Netbeans shows an error saying missing library file, click ‘Resolve’ and navigate to the ‘javaLib’ folder inside the repo and select the missing JSON library file; PicknDrop/javaLib/json-20190722 (1).jar*
 
@@ -54,8 +54,3 @@ Abdulla Elaaf
 Hassan Zayyan
 Ismail Muizzu Nizam
 Ibrahim Bin Ahmed
-
-
-
-
-
